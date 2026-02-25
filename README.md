@@ -108,7 +108,7 @@ List of ready features here:
         - URL: https://github.com/corehtml5canvas/code/blob/master/ch09/pinball/pinball.html
         
 
-- **Heath**:
+- **Heath**: "Created AWS EC2 connection and maintained uptime of website, restructered files for efficiency of database, setup the connection for MongoDB database"
 
 - **Jake**
 
@@ -124,7 +124,7 @@ List of ready features here:
 
 - **Nathan**:  "Implementing the backend scoreboard keeping as well as adding in the backend and frontend to a user login in page in order to give logged in users more features" 
 
-- **Heath**:
+- **Heath**: "Import more games and implement a feature for users to upload their own games to website, with security of website as the focus."
 
 - **Jake**
 
